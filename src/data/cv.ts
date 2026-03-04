@@ -111,6 +111,7 @@ export const cvData: CvData = {
             details: [
                 `MCO & Run z/OS : Installation de matière CATS, suivi de production, astreintes et diagnostic incidents.`,
                 `Modernisation : Exploitation de Python sur Mainframe (requêtes SQL, appels API, automatisation de traitements).`,
+                `Transverse : Travail d'équipe avec les pôles technologiques Z pour mettre en place de nouvelles solutions (requêtes SQL depuis Python, connecteurs DB2, etc.).`,
                 `Projets techniques : Outil moderne de gestion de logs Mainframe, playbooks Ansible et pipelines GitLab CI.`,
                 `AppOps : Accompagnement des squads CATS, interface entre besoins applicatifs et contraintes d'exploitation.`,
             ],

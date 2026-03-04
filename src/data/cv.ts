@@ -107,9 +107,9 @@ export const cvData: CvData = {
         {
             role: `Ingénieur Mainframe & Interopérabilité`,
             company: `Solutec & CAGIP (Rodez)`,
-            date: `09/2023 – Présent`,
+            date: `09/2023 – Aujourd'hui`,
             details: [
-                `MCO & Run z/OS : Installation de matière CATS, suivi de production, astreintes et diagnostic incidents.`,
+                `MCO : Installation de matière CATS, suivi de production, astreintes et diagnostic incidents.`,
                 `Transverse : Travail d'équipe avec les pôles technologiques Z pour mettre en place de nouvelles solutions.`,
                 `Modernisation : Exploitation de Python sur Mainframe (requêtes SQL, appels API, automatisation de traitements).`,
                 `AppOps : Accompagnement des squads CATS, interface entre besoins applicatifs et contraintes d'exploitation.`,

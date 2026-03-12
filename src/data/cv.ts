@@ -68,6 +68,7 @@ export const cvData: CvData = {
         open: [
             `Python`,
             `Linux`,
+            `Windows`,
             `Git`,
             `Ansible`,
             `Docker`,

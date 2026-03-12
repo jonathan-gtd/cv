@@ -83,8 +83,8 @@ export const cvData: CvData = {
     },
 
     certifications: [
-        `ITIL 4 Foundation`,
-        `TOEIC C1`,
+        `Formation ITIL 4 Foundation`,
+        `TOEIC C1 (2019)`,
     ],
 
     softSkills: [
